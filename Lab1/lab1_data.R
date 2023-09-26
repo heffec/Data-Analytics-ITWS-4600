@@ -1,4 +1,5 @@
-EPI_data <- read.csv("EPI_data_2010.csv")
+#EPI_data <- read.csv("EPI_data_2010.csv")
+EPI_data <- read.csv("C:/Users/heffec/Documents/GitHub/DataAnalytics_Fall2023_ChrisHeffernan/Lab1/EPI_data_2010.csv")
 #or
 #EPI_data <- read.xlsx(”<path>/2010EPI_data.xlsx")
 # Note: replace default data frame name – cannot start with numbers!
